@@ -15,8 +15,6 @@
 ## Issues
 * AirportItlwm fails after OS install or update.
   * Workaround: Replace the kext.
-* Brightness is dimmer than Windows.
-  * Workaround: It'll be okay after waking from sleep.
 * Screen remains black after opening the lid.
   * Workaround: Press a key to turn the display on.
 * Sometimes shutdown performs restart instead.

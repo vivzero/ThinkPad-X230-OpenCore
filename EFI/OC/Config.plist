@@ -28,7 +28,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-NBCF.aml</string>
+				<string>SSDT-INT.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -45,14 +45,6 @@
 				<true/>
 				<key>Path</key>
 				<string>SSDT-PR.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-PRW.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
