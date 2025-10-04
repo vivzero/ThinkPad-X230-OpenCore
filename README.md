@@ -1,4 +1,6 @@
 # ThinkPad X230 Hackintosh
+Tested with macOS Catalina
+
 ## Specs
 | Parts | Details |
 | - | - |
@@ -9,12 +11,17 @@
 | Display | LP125WH2-SLB3 |
 | Audio | ALC269 |
 | LAN | 82579LM |
-| WLAN | Centrino-N 6205 |
+| WLAN | 62205ANHMW |
 | BIOS | 2.70 |
 
 ## Issues
 * AirportItlwm fails after OS install or update.
   * Workaround: Replace the kext.
-* Screen remains black after opening the lid.
-  * Workaround: Press a key to turn the display on.
-* Sometimes shutdown performs restart instead.
+
+## Not Tested
+* DisplayPort
+* Docking Station
+* ExpressCard
+
+## Not Working
+* SD Card Reader
