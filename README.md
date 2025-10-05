@@ -1,5 +1,5 @@
 # ThinkPad X230 Hackintosh
-Tested with macOS Catalina
+Tested with macOS Catalina and Big Sur
 
 ## Specs
 | Parts | Details |
@@ -17,11 +17,12 @@ Tested with macOS Catalina
 ## Issues
 * AirportItlwm fails after OS install or update.
   * Workaround: Replace the kext.
+* Docking station is not hot-swappable.
 
 ## Not Tested
-* DisplayPort
-* Docking Station
+* Mini DisplayPort
 * ExpressCard
+* Hibernation (S4)
 
 ## Not Working
 * SD Card Reader
