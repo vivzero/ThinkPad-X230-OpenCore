@@ -52,21 +52,9 @@
 		<data>
 		VSsoexw5n+k5dImU/qEa4QuX6v+7iAzTkG3gi7CfMJo=
 		</data>
-		<key>Kexts\AirportItlwm_17.kext\Contents\Info.plist</key>
+		<key>Drivers\ToggleSipEntry.efi</key>
 		<data>
-		01Tb5vQ9CSAJBO5drgIHb7LZkEcZsu0zfPQHa9G1gW8=
-		</data>
-		<key>Kexts\AirportItlwm_17.kext\Contents\MacOS\AirportItlwm</key>
-		<data>
-		7IeSJVxAIZ5d4QGYyW51N8uDyu+X8FkFuiCHABIePoU=
-		</data>
-		<key>Kexts\AirportItlwm_18.kext\Contents\Info.plist</key>
-		<data>
-		LGqgD1Z9zndIGMsM7i6F99enZZ+QxMRv2IB82vtDPvk=
-		</data>
-		<key>Kexts\AirportItlwm_18.kext\Contents\MacOS\AirportItlwm</key>
-		<data>
-		4NORjZDshCLyhNY6an64J0+Kr1N8yYdAEgT3e5P/7t0=
+		6e9zkgKJnQMAJiX6RyYxhWi4p8dXIdB4WPpCDn5R41Y=
 		</data>
 		<key>Kexts\AirportItlwm_19.kext\Contents\Info.plist</key>
 		<data>
@@ -84,6 +72,14 @@
 		<data>
 		Xy4xbioxn3X5c7WbVjVKRdeQAFPMZKe8V2cLoAZvtEc=
 		</data>
+		<key>Kexts\AirportItlwm_21.kext\Contents\Info.plist</key>
+		<data>
+		nTar17Np0mYOyYl2aXr9pempXA6UHTuHtGXVS6GXK7U=
+		</data>
+		<key>Kexts\AirportItlwm_21.kext\Contents\MacOS\AirportItlwm</key>
+		<data>
+		a1t3R2n1Fb1elRzsZdEPJ2+cZiHVsZmwuo1x0rY/6jA=
+		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
 		sn0qL3iAagd/9Q87OXwmUs5X+Rw/jbhTGeJ4p9X3bMQ=
@@ -91,6 +87,14 @@
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
 		dxnOyfV4yxT3tFQ7jg3bbnUzC+jxeOMmrs8XpyOJg3g=
+		</data>
+		<key>Kexts\BlueToolFixup.kext\Contents\Info.plist</key>
+		<data>
+		VptFnwAhiwO0I3V91z8EQACI+O6kzdyEij2utk+VJwY=
+		</data>
+		<key>Kexts\BlueToolFixup.kext\Contents\MacOS\BlueToolFixup</key>
+		<data>
+		x6YV6ZVVnpF+kvG1If/UBj3ioPmAYsicEtrxQxUYCi8=
 		</data>
 		<key>Kexts\BrcmBluetoothInjector.kext\Contents\Info.plist</key>
 		<data>
@@ -103,14 +107,6 @@
 		<key>Kexts\BrcmFirmwareData.kext\Contents\MacOS\BrcmFirmwareData</key>
 		<data>
 		ufRUeNxcLUwOuXlvpMklm6Jh6KLKGJtqT0/v6mnX/A4=
-		</data>
-		<key>Kexts\BrcmPatchRAM2.kext\Contents\Info.plist</key>
-		<data>
-		aB6ycUNYQEWDONX3U94IXDIfVjls8+Y5Ncq6w8XXeY0=
-		</data>
-		<key>Kexts\BrcmPatchRAM2.kext\Contents\MacOS\BrcmPatchRAM2</key>
-		<data>
-		44dDwz8bvpQSLklOMZD9T3uRemgDvyzca8iYUdQwMqA=
 		</data>
 		<key>Kexts\BrcmPatchRAM3.kext\Contents\Info.plist</key>
 		<data>
@@ -175,10 +171,6 @@
 		<key>Kexts\USBMap.kext\Contents\Info.plist</key>
 		<data>
 		oiBEBDI8oqH95nNnTEbBVn68HtiQvYgUYzcumDwFt7A=
-		</data>
-		<key>Kexts\USBMapLegacy.kext\Contents\Info.plist</key>
-		<data>
-		xpfTCaUItyMshO+rqnL44/tYQ8lEdUB7I/BqzYCIpuY=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
@@ -318,7 +310,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		W3Gu1xuZEDmXK8yWDElXBzzD4k9s/+rNInMuXvKV3eQ=
+		z+zmjNOnqMJbOQsR2Nx6Y27Z6DV974f9KR/7TBKbsAw=
 		</data>
 	</dict>
 	<key>Version</key>
