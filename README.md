@@ -15,6 +15,8 @@ Tested with macOS Catalina and Big Sur
 | BIOS | 2.70 |
 
 ## Issues
+* POST hangs after OS reboot.
+  * Workaround: Remove USB stick before reboot. If you didn't, just wait until the Boot Menu appears, then remove it.
 * AirportItlwm fails after OS install or update.
   * Workaround: Replace the kext.
 * Docking station is not hot-swappable.
