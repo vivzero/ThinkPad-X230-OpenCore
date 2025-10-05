@@ -1,6 +1,8 @@
 # ThinkPad X230 Hackintosh
 Tested with macOS Catalina and Big Sur
 
+For Monterey, Disable SIP in OpenCore Boot Menu, and uncomment boot-args in config.plist.
+
 ## Specs
 | Parts | Details |
 | - | - |
@@ -16,7 +18,7 @@ Tested with macOS Catalina and Big Sur
 
 ## Issues
 * POST hangs after OS reboot.
-  * Workaround: Remove USB stick before reboot. If you didn't, just wait until the Boot Menu appears, then remove it.
+  * Workaround: Remove USB stick before reboot. If you didn't, just wait until Boot Menu appears, then remove it.
 * AirportItlwm fails after OS install or update.
   * Workaround: Replace the kext.
 * Docking station is not hot-swappable.
