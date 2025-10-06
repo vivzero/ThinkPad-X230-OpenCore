@@ -22,7 +22,7 @@ To do so, select Toggle SIP in OpenCore Boot Menu.
 * POST hangs after OS reboot.
   * Workaround: Remove USB stick before reboot. If you didn't, just wait until Boot Menu appears, then remove it.
 * AirportItlwm fails after OS install or update.
-  * Workaround: Replace the kext. For Catalina, you can set `SecureBootModel` to `Default` before using this EFI, to prevent the issue.
+  * Workaround: Replace the kext.
 * Docking station is not hot-swappable.
 
 ## Not Tested
