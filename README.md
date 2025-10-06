@@ -1,9 +1,9 @@
 # ThinkPad X230 Hackintosh
 Tested with macOS Catalina and Big Sur
 
-For Monterey, use OCLP to regain GPU acceleration. It requires disabling SIP and AMFI.
+For Monterey, use OCLP to regain GPU acceleration. It requires disabling SIP.
 
-To do so, toggle SIP to Disabled in OpenCore Boot Menu, and uncomment boot-args in config.plist.
+To do so, select Toggle SIP in OpenCore Boot Menu.
 
 ## Specs
 | Parts | Details |
@@ -22,7 +22,7 @@ To do so, toggle SIP to Disabled in OpenCore Boot Menu, and uncomment boot-args 
 * POST hangs after OS reboot.
   * Workaround: Remove USB stick before reboot. If you didn't, just wait until Boot Menu appears, then remove it.
 * AirportItlwm fails after OS install or update.
-  * Workaround: Replace the kext.
+  * Workaround: Replace the kext. For Catalina, you can set `SecureBootModel` to `Default` before using this EFI, to prevent the issue.
 * Docking station is not hot-swappable.
 
 ## Not Tested
