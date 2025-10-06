@@ -1,7 +1,9 @@
 # ThinkPad X230 Hackintosh
 Tested with macOS Catalina and Big Sur
 
-For Monterey, Disable SIP in OpenCore Boot Menu, and uncomment boot-args in config.plist.
+For Monterey, use OCLP to regain GPU acceleration. It requires disabling SIP and AMFI.
+
+To do so, toggle SIP to Disabled in OpenCore Boot Menu, and uncomment boot-args in config.plist.
 
 ## Specs
 | Parts | Details |
